@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/tictactoe/dist' : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/web/tictactoe/dist' : '/',
 };
