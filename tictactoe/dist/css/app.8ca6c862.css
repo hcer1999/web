@@ -1,0 +1,1 @@
+#app{align-items:center;justify-content:center;flex-direction:column}#app,.row{display:flex}.row{cursor:pointer}.cell{display:flex;justify-content:center;width:100px;height:100px;font-size:70px;border:1px solid #000}header{margin-bottom:15px}footer{margin-top:15px;display:flex;flex-direction:column;justify-content:center;align-items:center}
